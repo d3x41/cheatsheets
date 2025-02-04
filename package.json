@@ -47,7 +47,7 @@
     "html-inline-external": "^1.0.10",
     "playwright": "^1.38.1",
     "prettier": "^3.0.3",
-    "prettier-plugin-astro": "^0.13.0",
+    "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-organize-imports": "^3.2.3",
     "prismjs": "1.29.0",
     "rehype-parse": "^9.0.0",
